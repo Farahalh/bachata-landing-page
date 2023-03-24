@@ -75,9 +75,6 @@ p {
   background: #c06c84;
   cursor: pointer;
 }
-footer {
-  text-align: center;
-}
 .dark {
   background: linear-gradient(
       to bottom,
@@ -105,6 +102,10 @@ footer {
 .dark .learn-bachata:hover {
   background: black;
   color: white;
+}
+.coded-by {
+  display: block;
+  text-align: center;
 }
 a {
   text-decoration: none;
